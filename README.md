@@ -1,1 +1,2 @@
-# cli_guessing_number-game
+# cli_guessing_number-game 
+authar Muhammad Hamza
